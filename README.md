@@ -4,7 +4,6 @@ Undergraduate studying **electronic and physical systems engineering** specifica
 
 I like building things that sit between **the physical world and code**: embedded systems, radio, drones, and the software that ties them together.
 
----
 
 ## 🔭 Currently
 
