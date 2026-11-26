@@ -5,13 +5,13 @@ Undergraduate studying **electronic and physical systems engineering** specifica
 I like building things that sit between **the physical world and code**: embedded systems, radio, drones, and the software that ties them together.
 
 
-## 🔭 Currently
+## Currently
 
 * Studying electromagnetics, circuit theory, and analytical mechanics
 * Looking for a research direction somewhere around wireless communications and applied ML
 * Learning Spanish 🇪🇸
 
-## 🚀 Projects
+## Projects
 
 |Project|What it is|
 |-|-|
@@ -19,7 +19,7 @@ I like building things that sit between **the physical world and code**: embedde
 |**agentrocky**|A PyQt6 desktop companion app ("Rocky") — an experiment in living alongside a CLI coding agent.|
 |**MC-admin-bot**|Discord + RCON bot for administering a Minecraft server.|
 
-## 🧰 Tech
+## Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
@@ -32,7 +32,7 @@ I like building things that sit between **the physical world and code**: embedde
 * **Embedded / Robotics:** Raspberry Pi 5, Jetson Orin Nano, PX4
 * **Infra:** Linux (Ubuntu), Tailscale, self-hosted services
 
-## 📷 Off-screen
+## Off-screen
 
 Photography (Sony α7 III, Olympus OM-10) 
 Also: Formula 1, science fiction, and Minecraft servers (exist mostly as an excuse to configure networking:D)
